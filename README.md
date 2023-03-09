@@ -1,6 +1,6 @@
-#how to use
+# how to use
 
-1. Intercept API data to get token from website : https://dream.ai/
+1.Intercept API data to get token from website : https://dream.ai/
 
 2.Your cookies or bot account
 
